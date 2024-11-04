@@ -13,3 +13,5 @@ Lighting up the attached pixel ring, red for hot and green for cold.
 * Button
 * 3D printed shell for bread board.
 * Laser cut logo design.
+
+[https://www.hackster.io/joeseph-arnoux/red-chile-temp-c3bb90]
